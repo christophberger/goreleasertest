@@ -42,4 +42,12 @@ gomod:
   proxy: false
 signs:
   - artifacts: all
-    args: ["-u", "github@christophberger.com"]
+    args:
+      [
+        "-u",
+        "github@christophberger.com",
+        "--output",
+        "${signature}",
+        "--detach-sign",
+        "${artifact}",
+      ]
