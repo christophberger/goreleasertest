@@ -1,0 +1,3 @@
+LICENSE
+
+This code contains no intellectual property of any level that would be worth protecting.
