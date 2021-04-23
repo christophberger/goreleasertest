@@ -41,4 +41,5 @@ changelog:
 gomod:
   proxy: false
 signs:
-  - artifacts: checksum
+  - artifacts: all
+    args: ["-u", "github@christophberger.com"]
