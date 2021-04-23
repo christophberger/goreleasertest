@@ -39,4 +39,4 @@ changelog:
       - "^docs:"
       - "^test:"
 gomod:
-  proxy: true
+  proxy: false
