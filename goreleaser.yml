@@ -40,3 +40,5 @@ changelog:
       - "^test:"
 gomod:
   proxy: false
+signs:
+  - artifacts: checksum
